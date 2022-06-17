@@ -94,6 +94,10 @@
     color:#e74c3c;
     border-bottom: 1px solid black;
 }
+.div1 a{
+    text-decoration:none;
+    color:#e74c3c;
+}
 .div2{
     width: 90%;
     height: 10%;
