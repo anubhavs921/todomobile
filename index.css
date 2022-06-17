@@ -98,6 +98,9 @@
     text-decoration:none;
     color:#e74c3c;
 }
+a{
+    text-decoration:none;
+}
 .div2{
     width: 90%;
     height: 10%;
