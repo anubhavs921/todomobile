@@ -227,13 +227,6 @@
 
 
 
-
-
-
-
-
-
-
 /* media queries start here */
 @media(max-width: 600px){
     .upper-container{
@@ -267,6 +260,10 @@
         border: none;
         color:grey;
     }
+    .div1 a{
+    text-decoration:none;
+    color:grey;
+}
     .card1{
         width: 90%;
         height: 23vw;
